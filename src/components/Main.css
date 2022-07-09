@@ -1,8 +1,12 @@
 .section {
   background-color: #ffffff;
   width: 30rem;
+  height: 12rem;
   padding: 1rem 1rem;
   border-radius: 20px;
+}
+.drop-container {
+  margin-bottom: 10px;
 }
 .p-intro {
   margin-top: 10px;

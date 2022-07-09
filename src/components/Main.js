@@ -12,7 +12,12 @@ export function Main() {
             planets at a specific point in time.
           </p>
         </div>
-        <Dropdown />
+        <div className="drop-container">
+          <Dropdown />
+        </div>
+        <div>
+          <p style={{ fontSize: "10px" }}>What is my zodiac sign?</p>
+        </div>
       </section>
     </>
   );
