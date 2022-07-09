@@ -1,0 +1,10 @@
+.section {
+  background-color: #ffffff;
+  width: 30rem;
+  padding: 1rem 1rem;
+  border-radius: 20px;
+}
+.p-intro {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
