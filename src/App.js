@@ -8,7 +8,6 @@ function App() {
     <>
       <div className="main-container">
         <Main />
-        <Results />
       </div>
     </>
   );
